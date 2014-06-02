@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | Arash's Octopress Blog]]></title>
+  <link href="http://arashsg.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://arashsg.github.io/"/>
+  <updated>2014-06-02T12:07:55+10:00</updated>
+  <id>http://arashsg.github.io/</id>
+  <author>
+    <name><![CDATA[Arash]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Furst Oist]]></title>
+    <link href="http://arashsg.github.io/blog/2014/06/02/furst-oist/"/>
+    <updated>2014-06-02T12:06:37+10:00</updated>
+    <id>http://arashsg.github.io/blog/2014/06/02/furst-oist</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
